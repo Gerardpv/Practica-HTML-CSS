@@ -1,0 +1,125 @@
+.titol {
+	background: #ffffbf;
+	text-align: center;
+}
+
+.desplegable{
+	display: inline-block;
+	position: relative;
+}
+
+.cont-desplegable{
+	display: none;
+	position: absolute;
+	width: 100%;
+	overflow: auto;
+	box-shadow: 5px 10px 10px 5px rgba(0,0,0,0.4);
+	background-color: rgb(255, 254, 254);
+}
+
+.desplegable:hover .cont-desplegable {
+	display: block;
+  }
+
+.Mostrar-apartats {
+	text-align: center;
+
+}
+.apartats{
+	border: #5E5E5E;
+	text-decoration: underline orange; 
+	font-weight: bold;
+}
+
+blockquote {
+	border-left: 3px solid darkorange;
+	background: #fbfbfb;
+	padding: 10px;
+
+}
+
+#foto{
+	width:75%;
+    height:75%;
+    border-radius:10%;
+}
+
+#foto:hover{
+	border-radius:50%;
+	-webkit-border-radius:50%;
+	box-shadow: 0px 0px 15px 15px #ec731e;
+	-webkit-box-shadow: 0px 0px 15px 15px #ec731e;
+}
+
+
+.threeDimension {
+    padding: 10px;
+	border-radius: 4px;
+	background:orange;
+	text-decoration:none;
+	text-align: center;
+	color: white;
+
+}
+
+.threeDimension:hover {
+	background-color:darkorange;
+}
+
+
+.subapartats{
+	background-color: #ffffbf;
+
+}
+
+.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;border:1; margin: 0 auto;}
+.tg td{border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-lbqm{border-color:#f9f9f9;text-align:center;vertical-align:top}
+.tg .tg-bx76{border-color:#f9f9f9;font-weight:bold;text-align:center;text-decoration:underline;
+  vertical-align:top}
+.tg .tg-nuzp{border-color:#f9f9f9;text-align:center;vertical-align:top}
+
+.tg-bx76 a{
+	color: #333;
+}
+
+.t{
+	font-weight: bold;
+	font-size: 125%;
+	text-align: center;
+
+}
+#portaf{
+	border-color:#f9f9f9;
+	border-spacing:0;
+	border:1; 
+	margin: 0 auto;
+}
+
+.separacio{
+	background-color: #ffd105a6;
+	border-width:50px;
+}
+
+.infoP{
+	background-color: #fdd90d23;
+}
+footer {
+	padding: 5px;
+	background: #f5ae52a8;
+	color: black;
+	font-size: 12px;
+	text-align: center;
+
+  }
+
+.correu {
+	color: black;	
+  }
+#enllaç{
+	text-size-adjust: 25%;
+	text-align: right;
+}
