@@ -65,7 +65,6 @@ h4 span{
 	}
 }
 
-
 #foto{
 	width:75%;
     height:75%;
@@ -78,7 +77,6 @@ h4 span{
 	box-shadow: 0px 0px 15px 15px #ec731e;
 	-webkit-box-shadow: 0px 0px 15px 15px #ec731e;
 }
-
 
 .threeDimension {
     padding: 10px;
@@ -93,7 +91,6 @@ h4 span{
 .threeDimension:hover {
 	background-color:darkorange;
 }
-
 
 .subapartats{
 	background-color: #ffffbf;
@@ -141,7 +138,6 @@ footer {
 	color: black;
 	font-size: 12px;
 	text-align: center;
-
   }
 
 .correu {
