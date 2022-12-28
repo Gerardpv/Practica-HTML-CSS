@@ -1,5 +1,5 @@
 .titol {
-	background: #ffffbf;
+	background: #fdd47c;
 	text-align: center;
 }
 
@@ -93,7 +93,11 @@ h4 span{
 }
 
 .subapartats{
-	background-color: #ffffbf;
+	background-color: #fdd47c;
+
+}
+.subapartats2{
+	background-color: #fdea7cb2;
 
 }
 
