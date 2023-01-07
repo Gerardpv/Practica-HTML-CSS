@@ -70,7 +70,6 @@ h4 span{
     height:75%;
     border-radius:10%;
 }
-
 #foto:hover{
 	border-radius:50%;
 	-webkit-border-radius:50%;
@@ -147,7 +146,3 @@ footer {
 .correu {
 	color: black;	
   }
-#enllaç{
-	text-size-adjust: 25%;
-	text-align: right;
-}
